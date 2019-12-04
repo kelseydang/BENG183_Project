@@ -1,0 +1,12 @@
+---
+title: "BENG183_Project"
+author: "Kelsey Dang, Katy Zou, Diego Quintero"
+date: "12/4/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Testing R markdown!
