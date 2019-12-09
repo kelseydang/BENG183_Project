@@ -26,6 +26,7 @@ as the same when treating diseases? Each treatment applies differently
 for each individual, it may or may not be effective, or might not have
 the same effects on every patient. So how is this problem approached?
 With Precision Medicine\!  
+
 According to the National Research Council’s Toward Precision Medicine,
 precision medicine is defined as, “the tailoring of medical treatment to
 the individual characteristics of each patient”.<sup>1</sup> Precision
@@ -34,6 +35,7 @@ while reducing the need for unnecessary diagnostic testing, therapies,
 and misdiagnoses. It is a philosophy of medicine that treats patients
 based on an understanding of their genetics, instead of “assigning”
 patients to a treatment, a treatment is made catering to the patient.  
+
 The goal of PM is not only to develop a health care system in which
 research is carried out in the context of clinical care, but also it is
 optimizing the treatment and knowledge used to deliver improved patient
@@ -42,6 +44,7 @@ proteins, metabolism, epigenome, and environmental aspects, Precision
 Medicine can utilize these essential factors into techniques such as,
 patient subtyping, biomarker discovery, drug repurposing, and
 personalized treatment.  
+
 Today, a large number of precision medicine techniques are implemented
 to healthcare to help individuals before birth, at birth, and throughout
 their lifetime. For example, when an expecting mother is about 8 – 12
@@ -136,6 +139,7 @@ biomarkers are used in order to identify commonalities between carriers
 of diseases. In this section, we will focus on genomic biomarkers that
 identify breast cancer patient types, specifically delving into
 HER2-positive patients who have an overexpression of the HER2 gene.  
+
 The discovery of the HER2 gene pathway and its importance in breast
 cancer growth led to the development of the drug trastuzumab and various
 other targeted treatments, improving the survival rate of breast cancer
@@ -258,6 +262,7 @@ medicine from making the impact that it has potential for. In order to
 integrate PM technology into healthcare practice in the future there
 needs to be changes within the insufficient decision supporting
 technology and insufficient funding for translational health research.  
+
 Perhaps in the future, economic and social policies will be created to
 support the progress in precision medicine. This would be essential to
 the adoption and integration of PM technologies into healthcare not just
