@@ -288,6 +288,69 @@ there is potential for the transition from disease treatment, to disease
 prevention, and all the way to early detection.
 
 ## 9\. References
+1. Precision medicine technology:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5989714/
+APA: Ginsburg, G. S., & Phillips, K. A. (2018). Precision Medicine: From Science To Value. Health affairs (Project Hope), 37(5), 694–701. doi:10.1377/hlthaff.2017.1624
+2. Breast cancer milestones: https://www.healthline.com/health/history-of-breast-cancer#research-milestones
+APA: 
+3. Radical mastectomy:https://en.wikipedia.org/wiki/Radical_mastectomy
+APA: Wikipedia contributors. (2019, November 23). Radical mastectomy. In Wikipedia, The Free Encyclopedia. Retrieved 06:45, December 9, 2019, from https://en.wikipedia.org/w/index.php?title=Radical_mastectomy&oldid=927529396
+4. Xray breast cancer/radium radiation treatment: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5535674/
+APA: Gianfaldoni, S., Gianfaldoni, R., Wollina, U., Lotti, J., Tchernev, G., & Lotti, T. (2017). An Overview on Radiotherapy: From Its History to Its Current Applications in Dermatology. Open access Macedonian journal of medical sciences, 5(4), 521–525. doi:10.3889/oamjms.2017.122
+5. SERMs: https://www.breastcancer.org/treatment/hormonal/serms
+APA:Selective Estrogen Receptor Modulators (SERMs). (2018, August 15). Retrieved from https://www.breastcancer.org/treatment/hormonal/serms.
+6. Tamoxifen: https://www.breastcancer.org/treatment/hormonal/serms/tamoxifen
+APA: Tamoxifen: Uses, Side Effects, and More. (2019, November 11). Retrieved from https://www.breastcancer.org/treatment/hormonal/serms/tamoxifen.
+7. Herceptin: https://en.wikipedia.org/wiki/Trastuzumab
+APA: Wikipedia contributors. (2019, December 3). Trastuzumab. In Wikipedia, The Free Encyclopedia. Retrieved 06:57, December 9, 2019, from https://en.wikipedia.org/w/index.php?title=Trastuzumab&oldid=929109857
+8. Anastrozole: https://en.wikipedia.org/wiki/Anastrozole
+APA: Wikipedia contributors. (2019, October 8). Anastrozole. In Wikipedia, The Free Encyclopedia. Retrieved 06:58, December 9, 2019, from https://en.wikipedia.org/w/index.php?title=Anastrozole&oldid=920183794
+9. Raloxifene: https://en.wikipedia.org/wiki/Raloxifene
+APA: Wikipedia contributors. (2019, November 25). Raloxifene. In Wikipedia, The Free Encyclopedia. Retrieved 06:58, December 9, 2019, from https://en.wikipedia.org/w/index.php?title=Raloxifene&oldid=927895736
+10. Integrative methods for analyzing big data in precision medicine, https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201500396
+APA: Gligorijević, V., Malod‐Dognin, N. and Pržulj, N. (2016), Integrative methods for analyzing big data in precision medicine. Proteomics, 16: 741-758. doi:10.1002/pmic.201500396
+11. BRCA1 and 2: https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet
+APA: BRCA Mutations: Cancer Risk and Genetic Testing Fact Sheet. (2018, January 30). Retrieved from https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet.
+12. More on PM and future directions https://www.ncbi.nlm.nih.gov/pubmed/30003435
+APA: Love-Koh, J., Peel, A., Rejon-Parrilla, J. C., Ennis, K., Lovett, R., Manca, A., Chalkidou, A., et al. (2019). Correction to: The Future of Precision Medicine: Potential Impacts for Health Technology Assessment. PharmacoEconomics, 37(1), 117–117. Retrieved December 9, 2019, from 10.1007/s40273-018-0739-x
+13. Other gene biomarkers associated with breast cancer: https://www.breastcancer.org/risk/factors/genetics
+APA: (n.d.). Genetics: Breast Cancer Risk Factors. Breastcancer.org. Retrieved December 9, 2019, from https://www.breastcancer.org/risk/factors/genetics
+14. First BRCA drug https://www.cancer.org/latest-news/fda-approves-first-drug-specifically-for-brca-mutated-breast-cancer.html
+APA: (2018, January 22). FDA Approves First Drug Specifically For BRCA-mutated Breast Cancer. www.cancer.org. Retrieved December 9, 2019, from https://www.cancer.org/latest-news/fda-approves-first-drug-specifically-for-brca-mutated-breast-cancer.html
+15. HER2:https://oncologypro.esmo.org/Education-Library/Factsheets-on-Biomarkers/HER2-in-Breast-Cancer
+APA: Viale, G. (2015, August 5). HER2 In Breast Cancer: ESMO Biomarker Factsheet | OncologyPRO. OncologyPRO. Retrieved December 9, 2019, from https://oncologypro.esmo.org/Education-Library/Factsheets-on-Biomarkers/HER2-in-Breast-Cancer
+16. BARD1https://www.facingourrisk.org/understanding-brca-and-hboc/information/hereditary-cancer/other-genes/basics/bard1.php
+APA: (n.d.). BARD1 Mutation. Facingourrisk.org. Retrieved December 9, 2019a, from https://www.facingourrisk.org/understanding-brca-and-hboc/information/hereditary-cancer/other-genes/basics/bard1.php
+17. BRIP1:https://mysupport360.com/associations/genes/brip1-gene-mutations/
+APA: (2019, July 9). BRIP1 Gene Mutations - MySupport360. MySupport360. Retrieved December 9, 2019, from https://mysupport360.com/associations/genes/brip1-gene-mutations/
+18. CDH1: https://mysupport360.com/associations/genes/cdh1-gene-mutations/
+APA: (2019a, July 9). CDH1 Gene Mutations - MySupport360. MySupport360. Retrieved December 9, 2019, from https://mysupport360.com/associations/genes/cdh1-gene-mutations/
+19. CHEK2:https://mysupport360.com/associations/genes/chek2-gene-mutations/
+APA: (2019a, July 9). CHEK2 Gene Mutations - MySupport360. MySupport360. Retrieved December 9, 2019, from https://mysupport360.com/associations/genes/chek2-gene-mutations/
+20. TP53:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6460547/
+APA: Lima, Z. S., Ghadamzadeh, M., Arashloo, F. T., Amjad, G., Ebadi, M. R., & Younesi, L. (2019). Recent advances of therapeutic targets based on the molecular signature in breast cancer: genetic mutations and implications for current treatment paradigms. Journal of hematology & oncology, 12(1), 38. doi:10.1186/s13045-019-0725-6
+21. STK11:https://www.cancernetwork.com/cancer-and-genetics/targeting-inflammation-slows-stk11-mutation-driven-polyp-growth
+APA: Furlow, B. (2018, August 14). Targeting Inflammation Slows STK11 Mutation-Driven Polyp Growth. Cancer Network. Retrieved December 9, 2019, from https://web.archive.org/web/20191209072648/https://www.cancernetwork.com/cancer-and-genetics/targeting-inflammation-slows-stk11-mutation-driven-polyp-growth
+22. Support Vector Machines, an Overview, https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989
+APA: https://towardsdatascience.com/@pupalerushikesh. (2018a, June 16). Support Vector Machines(SVM) — An Overview. www.towardsdatascience.com. Retrieved December 9, 2019, from https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989
+23. “Integrative methods for analyzing big data in precision medicine”
+https://docs.google.com/document/d/1_e2WeZ693Nq9DAGoDdQPsuzJJVXYxIailB96hJMLZl0/edit
+APA: Gligorijević, V., Malod-Dognin, N., & Pržulj, N. (2016). Integrative methods for analyzing big data in precision medicine. Proteomics, 16(5), 741–758. Retrieved December 9, 2019, from 10.1002/pmic.201500396
+24. Genomics and precision medicine https://www.sciencedirect.com/science/article/pii/B9780128006818000013
+APA: Willard, H. F. (2017). The Human Genome, 1–19. Retrieved December 9, 2019, from 10.1016/b978-0-12-800681-8.00001-3
+25. HER2 https://www.cancer.gov/research/progress/discovery/her2
+APA: (2018b, April 11). HER2 Genetic Link To Breast Cancer. National Cancer Institute. Retrieved December 9, 2019, from https://www.cancer.gov/research/progress/discovery/her2
+26. HER2 survival stats https://ascopubs.org/doi/10.1200/JCO.2014.55.5730
+APA: Perez, E. A., Romond, E. H., Suman, V. J., Jeong, J.-H., Davidson, N. E., Geyer, C. E., Martino, S., et al. (2011). Four-Year Follow-Up of Trastuzumab Plus Adjuvant Chemotherapy for Operable Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer: Joint Analysis of Data From NCCTG N9831 and NSABP B-31. JCO, 29(25), 3366–3373. Retrieved December 9, 2019, from 10.1200/jco.2011.35.0868
+
+Images:
+1. BRCA1 and 2:https://en.wikipedia.org/wiki/BRCA_mutation
+APA:BRCA mutation. (2019, November 14). Retrieved from https://en.wikipedia.org/wiki/BRCA_mutation.
+2. HER2https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32417-5/fulltext
+APA: Gianni, L. (n.d.). HER2-positive breast cancer. The Lancet. doi: https://doi.org/10.1016/S0140-6736(16)32417-5
+3. Radical mastectomy: https://www.fairview.org/patient-education/83001
+APA: Patient Education. (n.d.). Retrieved from https://www.fairview.org/patient-education/83001.
+4. Radium radiation therapy: https://www.mskcc.org/timeline/msk-radiation-therapy-timeline-progress
+APA:MSK Radiation Therapy: Timeline of Progress. (n.d.). Retrieved from https://www.mskcc.org/timeline/msk-radiation-therapy-timeline-progress.
 
 ## 10\. Supplementary Material
 
