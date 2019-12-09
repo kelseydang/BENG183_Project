@@ -202,8 +202,7 @@ patients (1 for positive response, 0 otherwise), then we can use the
 mRNA expression data of \~80% of the patients to train the SVM while
 also inputting how those 80% of patients responded to the drug.
 
-**Insert “Training Machine Learning Classifier to Predict AKT Inhibitor
-Sensitivity” Picture**
+![training SVM](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/TrainingSVM.jpg)
 
 This trains the SVM to try and find a correlation of expression levels
 for that subset of preys that had a strong interaction with your
