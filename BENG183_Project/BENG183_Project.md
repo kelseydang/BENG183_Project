@@ -129,7 +129,7 @@ affects, and the modern treatment prescribed.
 
 ![drug table](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/drug%20table.png)
 
-**Insert “2.2 Important Biomarkers Identified for Breast Cancer”**
+![biomarker table](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/biomarker%20table.png)
 
 Genomics is a branch of biology that focuses on understanding genomes
 and comprises of the central core of precision medicine.<sup>24</sup>
