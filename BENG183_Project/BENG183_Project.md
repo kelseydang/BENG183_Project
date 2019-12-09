@@ -127,8 +127,7 @@ The second chart lists important biomarkers associated with breast
 cancer, a description of what the biomarker is, the patient type it
 affects, and the modern treatment prescribed.
 
-**Insert “2.1 Popular breast cancer drugs and respective prevision
-medicine targets”**
+![drug table](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/drug%20table.png)
 
 **Insert “2.2 Important Biomarkers Identified for Breast Cancer”**
 
