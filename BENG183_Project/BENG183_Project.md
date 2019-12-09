@@ -290,3 +290,23 @@ prevention, and all the way to early detection.
 ## 9\. References
 
 ## 10\. Supplementary Material
+
+Additional breast cancer genomic biomarkers:
+|Biomarker |Description |Patient type or Mutation result |Treatment |
+|----------|------------|--------------------------------|----------|
+|ATM |Gene that helps repair DNA. |Increased risk of breast cancer|Ongoing research|
+|BARD1 |Works with BRCA1 to repair DNA |Increased risk of breast cancer|Ongoing research<sup>16</sup>|
+|BRIP1|Gene that helps repair DNA.|Increased risk of breast cancer|Ongoing research<sup>17</sup>|
+|CDH1|Protein that helps cells bind together to form tissue invasive lobular breast cancer.|Ongoing research<sup>18</sup>|
+|CHEK2|Gene that codes for tumor suppression protein.|More than double the risk of breast cancer.|Ongoing research<sup>19</sup>|
+|MRE11A|Works with RAD50 and NBN genes, to form the MRN complex, which helps repair DNA.|Increases breast cancer risk|Ongoing research|
+|MSH6|Codes for protein that repairs DNA.|Doubles the risk of breast cancer. |Ongoing research|
+|NBN|Works with the MRE11A and RAD50 genes, to form MRN complex, which helps repair DNA. |Increases risk of breast cancer.|Ongoing research|
+|PALB2|Works with BRCA2 to repair damaged DNA.|5-9x more likely to develop breast cancer.|Ongoing research.|
+|PMS2|Codes for protein that repairs DNA.|Doubles breast cancer risk.|Ongoing research|
+|PTEN|Regulates cell growth|Increases risk of breast cancer.| Ongoing research|
+|RAD50|Works with the MRE11A and NBN genes, to form MRN complex, which helps repair DNA.|Increases risk of breast cancer.|Ongoing research|
+|RAD51C|Repairs DNA damage.|Increases risk of breast cancer.|Ongoing research |
+|STK11|Regulates cell growth.|Increases risk of breast cancer.|Undergoing research, one drug is metformin<sup>21</sup>|
+|TP53|Gene that encodes tumor suppressor protein.|Nearly 100% chance of developing cancer. |Under research: APR-246 + azacitidine and Azacitidine20|
+
