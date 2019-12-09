@@ -1,6 +1,6 @@
 BENG183\_Project
 ================
-Authors: Kelsey Dang, Katy Zou, Diego Quintero
+Authors: Kelsey Dang, Katy Zou, Diego Quintero  
 12/9/2019
 
 # Precision Medicine - Past, Present, & Future
