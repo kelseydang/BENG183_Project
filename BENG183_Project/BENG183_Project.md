@@ -292,6 +292,7 @@ prevention, and all the way to early detection.
 ## 10\. Supplementary Material
 
 Additional breast cancer genomic biomarkers:
+
 |Biomarker |Description |Patient type or Mutation result |Treatment |
 |----------|------------|--------------------------------|----------|
 |ATM |Gene that helps repair DNA. |Increased risk of breast cancer|Ongoing research|
