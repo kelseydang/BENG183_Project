@@ -258,13 +258,15 @@ Start with suitable choices of number of clusters (K). Then:
     4. Identify the new cluster centroids
     5. Repeat steps 3 and 4 until:
     	- Centroids no longer change
-	    - Points remain in the same cluster
-	    - Or max number of iterations is reached(defined by user)
+	        - Points remain in the same cluster
+	        - Or max number of iterations is reached(defined by user)
 	
 	
 ![k-means example](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/kmeans_example_figure.png)
 
 from : https://www.edureka.co/blog/k-means-clustering/
+
+
 
 
 Demo using K-means:
