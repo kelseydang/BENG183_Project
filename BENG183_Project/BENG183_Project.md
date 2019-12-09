@@ -18,7 +18,7 @@ Kelsey Dang, Katy Zou, Diego Quintero
 9.  References  
 10. Supplementary Material
 
-## <span style="color:red">1. Introduction</span>
+## 1\. Introduction
 
 If every individual on the planet has their own unique genetic makeup,
 one that distinguishes them from every other person, why are they seen
@@ -54,7 +54,7 @@ the diagnosis and treatment of a variety of diseases, especially in
 accurately diagnosing cancer and applying the correct therapy for
 chronic diseases.<sup>1</sup>
 
-## <span style="color:red">2. History of Precision Medicine with focus on Breast Cancer</span>
+## 2\. History of Precision Medicine with focus on Breast Cancer
 
 **insert the history\_breastcancer pic**
 
@@ -116,7 +116,7 @@ postmenopausal women who have higher risk.
 in efforts to expand the database for precision medicine focused
 research.<sup>1</sup>
 
-## <span style="color:red">Genomics in Precision Medicine</span>
+## 3\. Genomics in Precision Medicine
 
 In the first of the charts below, the most widely prescribed breast
 cancer drugs are listed along with the specific patient type targeted.
@@ -150,7 +150,7 @@ they found was to inhibit the actions of the HER2 proteins with special,
 laboratory produced monoclonal antibodies. So thus, the drug trastuzumab
 or Herceptin was created.
 
-## <span style="color:red">4. Techniques/Methods</span>
+## 4\. Techniques/Methods
 
 Precision Medicine can provide a personalized insight into drug
 treatment and disease diagnosis by using machine learning(ML) and
@@ -166,19 +166,18 @@ Common methods in machine learning fall under three categories:
 **Insert “common methods in machine learning fall under three
 categories”**
 
-  - <span style="color:red">Supervised:</span> methods are commonly used
-    for classification and regression and require known labels as input
-    with your data. Supervised learning usually involves using a subset
-    of the labeled data as a training set and the remaining of the data
-    as the testing set to determine its accuracy.  
-  - <span style="color:red">Unsupervised:</span> methods are commonly
-    used for clustering and dimensionality reduction and take as input a
-    dataset that is unlabeled. For unsupervised learning, hidden
-    patterns can be organized into meaningful subsets.  
-  - <span style="color:red">Semisupervised:</span> learning methods
-    takes a mixture of both labeled and unlabeled samples that can be
-    used to explain the structure of the data as well as make new
-    predictions of unlabeled samples.
+  - Supervised: methods are commonly used for classification and
+    regression and require known labels as input with your data.
+    Supervised learning usually involves using a subset of the labeled
+    data as a training set and the remaining of the data as the testing
+    set to determine its accuracy.  
+  - Unsupervised: methods are commonly used for clustering and
+    dimensionality reduction and take as input a dataset that is
+    unlabeled. For unsupervised learning, hidden patterns can be
+    organized into meaningful subsets.  
+  - Semisupervised: learning methods takes a mixture of both labeled and
+    unlabeled samples that can be used to explain the structure of the
+    data as well as make new predictions of unlabeled samples.
 
 Example focused on Supervised Learning:
 
@@ -186,13 +185,49 @@ Example focused on Supervised Learning:
 and Transcriptomics and a support vector machine(SVM) to predict Drug
 response**
 
-## <span style="color:red">5. Benefits of Precision Medicine</span>
+Affinity-purification Mass Spectrometry(AP-MS) is used to determine the
+physical interactions(preys) for a selected protein of interest (Bait)
+in a sample; such interactions are known as protein-protein
+interaction(PPIs). Selecting a target Bait that we know to be associated
+with a specific disease(i.e. cancer) can lead us to other interactors
+that could be essential for the development of the cancer phenotype.
+After running AP-MS and determining which subset of preys have a strong
+interaction, we can look at that subset from publicly available mRNA
+expression data from patients who also have data of their response to
+cancer treatment drug. Since we are given the drug responses of the
+patients (1 for positive response, 0 otherwise), then we can use the
+mRNA expression data of \~80% of the patients to train the SVM while
+also inputting how those 80% of patients responded to the drug.
 
-## <span style="color:red">6. Drawbacks of Precision Medicine</span>
+**Insert “Training Machine Learning Classifier to Predict AKT Inhibitor
+Sensitivity” Picture**
 
-## <span style="color:red">7. Future Directions</span>
+This trains the SVM to try and find a correlation of expression levels
+for that subset of preys that had a strong interaction with your
+original bait and how that patient responded. We can test the SVM using
+the remaining 20% of patient mRNA data into the SVM and comparing how
+accurate the predicted response form the SVM is with the actual response
+from the given patient data.  
+**Insert “Validating Machine Learning Classifier Predictability”**
 
-## <span style="color:red">8. Conclusion</span>
+**How a SVM classifies data points: **
+
+Linearly separable data:
+
+The SVM is trained with an original set of labeled data and a hyperplane
+is created to separate the data and positioned in space so that the
+distance between the hyperplane and the closest data points from each
+distinct label is maximized. (See figures below) This hyperplane is then
+used as a boundary to determine where new data lies and how it is
+classified.
+
+## 5\. Benefits of Precision Medicine
+
+## 6\. Drawbacks of Precision Medicine
+
+## 7\. Future Directions
+
+## 8\. Conclusion
 
 Today, the issue that is still presented is finding a way to intertwine
 PM with other healthcare systems not just within the United States, but
@@ -215,6 +250,6 @@ of establishing health care policies that encourage precision medicine,
 there is potential for the transition from disease treatment, to disease
 prevention, and all the way to early detection.
 
-## <span style="color:red">9. References</span>
+## 9\. References
 
-## <span style="color:red">10. Supplementary Material</span>
+## 10\. Supplementary Material
