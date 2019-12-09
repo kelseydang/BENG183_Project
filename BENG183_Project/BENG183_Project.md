@@ -165,6 +165,8 @@ Common methods in machine learning fall under three categories:
 
 **Insert “common methods in machine learning fall under three
 categories”**
+![Common Methods in Machine Learning](/BENG183_project/BENG183_Project/ML_methods)
+
 
   - Supervised: methods are commonly used for classification and
     regression and require known labels as input with your data.
