@@ -169,7 +169,7 @@ Common methods in machine learning fall under three categories:
 
 **Insert “common methods in machine learning fall under three
 categories”**
-![Common Methods in Machine Learning](BENG183_Project/ML_methods.png)
+![Common Methods in Machine Learning](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/ML_methods.png)
 
 
   - Supervised: methods are commonly used for classification and
