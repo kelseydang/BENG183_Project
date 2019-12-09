@@ -59,7 +59,7 @@ chronic diseases.<sup>1</sup>
 
 ## 2\. History of Precision Medicine with focus on Breast Cancer
 
-**insert the history\_breastcancer pic**
+[!timeline](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/timeline%20precision%20medicine.png)
 
 **1882:** William Halsted performed the first radical mastectomy, a
 procedure that surgically removes the breast, underlying chest muscle
