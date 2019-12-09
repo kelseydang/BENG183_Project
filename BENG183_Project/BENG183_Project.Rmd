@@ -80,6 +80,7 @@ In the first of the charts below, the most widely prescribed breast cancer drugs
 Common methods in machine learning fall under three categories:  
 
 **Insert "common methods in machine learning fall under three categories"**
+![Common Methods in Machine Learning](/BENG183_project/BENG183_Project/ML_methods)
 
   * Supervised: methods are commonly used for classification and regression and require known labels as input with your data. Supervised learning usually involves using a subset of the labeled data as a training set and the remaining of the data as the testing set to determine its accuracy.  
   * Unsupervised: methods are commonly used for clustering and dimensionality reduction and take as input a dataset that is unlabeled. For unsupervised learning, hidden patterns can be organized into meaningful subsets.  
