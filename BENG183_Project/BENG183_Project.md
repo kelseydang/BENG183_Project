@@ -210,7 +210,8 @@ original bait and how that patient responded. We can test the SVM using
 the remaining 20% of patient mRNA data into the SVM and comparing how
 accurate the predicted response form the SVM is with the actual response
 from the given patient data.  
-**Insert “Validating Machine Learning Classifier Predictability”**
+
+![testing SVM](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/Testing%20SVM.jpg)
 
 **How a SVM classifies data points: **
 
