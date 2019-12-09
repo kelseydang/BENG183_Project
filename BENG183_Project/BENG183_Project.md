@@ -311,3 +311,23 @@ Additional breast cancer genomic biomarkers:
 |STK11|Regulates cell growth.|Increases risk of breast cancer.|Undergoing research, one drug is metformin<sup>21</sup>|
 |TP53|Gene that encodes tumor suppressor protein.|Nearly 100% chance of developing cancer. |Under research: APR-246 + azacitidine and Azacitidine20|
 
+As you may see from the supplementary table above, many precision treatments do not exist for the biomarkers associated with breast cancer. Some drugs are currently undergoing studies while others are yet to be discovered. 
+
+
+Additional Different “-Omics” Table:
+
+|NAME|Type of Data|
+|----|-----------|
+|Genomics|Whole Genomes (DNA)|
+|Exomics|Smaller Regions of genomes; Exons|
+|Epigenomics|Reversible modifications of DNA/histones, DNA methylation, Chromatin Structure|
+|Transcriptomics|Coding and non-coding RNAs, transcribed material|
+|Proteomics|Produced proteins post-translational modifications|
+|Interactomics|Physical or chemical interactions|
+|Metabolomics|All chemical processes involving metabolites|
+|Glycomics|Branch of metabolics: focuses on sets of all sugars either free or in complex molecules in cells|
+|Fluxomics|Branch of metabolics that attempts to predict rates of metabolic reactions in biological systems|
+|Phenomics|Measurement of Physical or biochemical traits of organisms as they change in response to genetic mutation and environmental influences|
+|Exposomics|Encompasses exposures such as toxic molecules, drugs, radiation, etc.|
+|Metagenomics|Aims at capturing human microbiomes. i.e. through 16s rRNA sequencing|
+
