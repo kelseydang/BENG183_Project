@@ -225,9 +225,24 @@ classified.
 
 ## 5\. Benefits of Precision Medicine
 
+Precision medicine has improved the ability of doctors to predict which treatments would work best for which patients. This is because precision medicine allows practitioners and researchers to fully understand the mechanisms by which various disease pathways work. All of this culminates in an overall improved preventative, diagnosis, and treatment cycle. 
+	
+In a 2014 study involving 4,000 patients, Herceptin was shown to increase the survival rate of HER2-positive patients drastically when combined with chemotherapy. In fact, the 10-year survival rate increased from 75.2% to 84% when Herceptin was used additionally.<sup>26</sup>
+
 ## 6\. Drawbacks of Precision Medicine
 
+Although the idea of predicting a treatment for each individual patient is ideal, there are many obstacles in Precision Medicine. The four main challenges presented in PM is: patient subtyping, biomarker discovery, drug repurposing and personalized treatment prediction.<sup>23</sup> With patient subtyping, the main task is to identify subpopulations of patients that can be used to guide treatment procedures of a given individual belonging to the subpopulation and to predict the outcomes²³. In subtyping there are endotypes and verotypes. Endotypes refer to the disease mechanisms similarities in patients and verotypes refer to populations of similar patients to predict treatments for the patients. The challenge with subtyping is that there are many different factors in subtyping patients, so incorporating all of the factors to group individuals would present difficulty in grouping very genetically different individuals.
+
+Drug repurposing is defined as the, “identification and development of new uses for the existing or abandoned pharmacotherapies”.<sup>23</sup> There is an increasing abundance in the discovery of biomedical data such as biomarkers, the issue however, is finding a way to include and store this knowledge in large databases. In creating the databases, there is an issue with privacy in one’s health records being in these databases. Once the databases are all created, the next challenge is to extract the complementary information conveyed in data of different formats and types into an integrative method.<sup>23</sup> It would be difficult to find the correlation between the abundance of data taken from various types of omics data types. 
+
 ## 7\. Future Directions
+
+Throughout this chapter we have solely focused on the omics data type of genomics, however there is an ever-growing amount of different omics data types being discovered today that can be incorporated into Precision Medicine. In addition to the abundance of omics data types, there is also a large number of clinical datasets of patient features becoming more available and more complex. In the future, the main focus would be to integrate these datasets and omics to create the most precise treatment for patients. In the figure below, it illustrates only some omics data types, even though there is much more to explore in the future.
+
+**add image of omnics man**
+
+Some examples of different omics data types are: Transcriptomics, Proteomics and Interactomics, Phenomics and Exposomics. Transcriptomics measures the amount of transcribed genetic material over time. Proteomics and Interactomics focuses on produced proteins, after all translational modification. Phenomics measures the physical and biochemical traits of organisms, while Exposomics encompasses all human environmental, nongenetic, exposures after conception.<sup>23</sup> In the future, PM could not only be more precise and accurate with the growing knowledge of omics data types and the large clinical databases, but it would allow medical practitioners to correctly diagnose a patient and even utilize drug repurposing in giving treatment to patients as well. With the availability of various omics data, computational predictions of new drug candidates for repurposing has necessitated the development of many new methods for data integration, thus patients would be less misdiagnosed and have a greater success rate from the treatment when all of their health information is utilized in selecting treatment.<sup>23</sup>
+
 
 ## 8\. Conclusion
 
