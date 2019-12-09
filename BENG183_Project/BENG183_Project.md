@@ -241,6 +241,43 @@ Data points aren’t always able to be separated by just a linear line, so in or
 Demo of SVM:
 https://cs.stanford.edu/people/karpathy/svmjs/demo/
 
+Optinoal exercise using R:
+http://uc-r.github.io/svm
+
+Example method using Unsupervised Learning:
+
+K-means algorithm is a way of dividing points(genes, samples, cells, etc.) into homogeneous classes or clusters. It analyses data and groups them into a user-defined number of classes(clusters) based on similarity. This method takes in unlabeled data to begin with, the number of clusters desired, and can also take the number of maximum iterations.
+
+#### K-means Algorithm
+
+Start with suitable choices of number of clusters (K). Then:
+
+    1. Assign each points to similar center
+    2. Identify the cluster centroid
+    3. Reassign the points based on the minimum distance to the new centroid
+    4. Identify the new cluster centroids
+    5. Repeat steps 3 and 4 until:
+    	- Centroids no longer change
+	- Points remain in the same cluster
+	- Or max number of iterations is reached(defined by user)
+	
+	
+![k-means example](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/kmeans_example_figure.png)
+from : https://www.edureka.co/blog/k-means-clustering/
+
+
+Demo using K-means:
+https://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html
+
+Optional exercise:
+http://master.bioconductor.org/help/publications/books/bioinformatics-and-computational-biology-solutions/chapter-code/AnalClust.R
+
+#### When to chose SVM or K-Means:
+
+|**SVM**|**K-Means**|
+|----|-----------|
+|Data has labels, there are a lot of higher dimensions(categories such as genes) in the data|Data labels are unknown, a rough estimate of how many groups are present in data|
+|Goal: Further classification of new data into its subtype|Goal: Cluster data to identify similar functions, identify subtypes, or discover shared similarity in DNA|
 
 ## 5\. Benefits of Precision Medicine
 
