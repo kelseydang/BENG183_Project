@@ -1,18 +1,62 @@
 BENG183\_Project
 ================
-Authors: Kelsey Dang, Katy Zou, Diego Quintero  
-12/9/2019
+Kelsey Dang, Katy Zou, Diego Quintero
+12/4/2019
 
 # Precision Medicine - Past, Present, & Future
 
 ## Table of Contents:
-### 1. Introduction
-### 2. History of Precision Medicine with focus on Breast Cancer
-### 3. Genomics in Precision Medicine
-### 4. Techniques/Methods
-### 5. Benefits of Precision Medicine
-### 6. Drawbacks of Precision Medicine
-### 7. Future Directions
-### 8. Conclusion
-### 9. References
-### 10. Supplementary Material
+
+### 1\. Introduction
+
+If every individual on the planet has their own unique genetic makeup,
+one that distinguishes them from every other person, why are they seen
+as the same when treating diseases? Each treatment applies differently
+for each individual, it may or may not be effective, or might not have
+the same effects on every patient. So how is this problem approached?
+With Precision Medicine\!  
+According to the National Research Council’s Toward Precision Medicine,
+precision medicine is defined as, “the tailoring of medical treatment to
+the individual characteristics of each patient”.\[.^1\] Precision
+Medicine (PM), is being able to improve the treatment for patients,
+while reducing the need for unnecessary diagnostic testing, therapies,
+and misdiagnoses. It is a philosophy of medicine that treats patients
+based on an understanding of their genetics, instead of “assigning”
+patients to a treatment, a treatment is made catering to the patient.  
+The goal of PM is not only to develop a health care system in which
+research is carried out in the context of clinical care, but also it is
+optimizing the treatment and knowledge used to deliver improved patient
+outcomes.\(^1\) By incorporating patient data, i.g. DNA, RNA, proteins,
+metabolism, epigenome, and environmental aspects, Precision Medicine can
+utilize these essential factors into techniques such as, patient
+subtyping, biomarker discovery, drug repurposing, and personalized
+treatment.  
+Today, a large number of precision medicine techniques are implemented
+to healthcare to help individuals before birth, at birth, and throughout
+their lifetime. For example, when an expecting mother is about 8 – 12
+weeks pregnant, she may have genetic testing to assess any chromosomal
+abnormalities of the fetus, and the fetus’ entire genome may even be
+sequenced. At birth, sequencing can be utilized in rapidly diagnosing
+any factor that may lead to reduced mortality. Throughout an
+individual’s life, these precision medicine techniques can be used in
+the diagnosis and treatment of a variety of diseases, especially in
+accurately diagnosing cancer and applying the correct therapy for
+chronic diseases.\(^1\)
+
+### 2\. History of Precision Medicine with focus on Breast Cancer
+
+### 3\. Genomics in Precision Medicine
+
+### 4\. Techniques/Methods
+
+### 5\. Benefits of Precision Medicine
+
+### 6\. Drawbacks of Precision Medicine
+
+### 7\. Future Directions
+
+### 8\. Conclusion
+
+### 9\. References
+
+### 10\. Supplementary Material
