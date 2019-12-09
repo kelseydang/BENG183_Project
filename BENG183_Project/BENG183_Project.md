@@ -215,7 +215,7 @@ from the given patient data.
 
 **How a SVM classifies data points: **
 
-Linearly separable data:
+#### Linearly separable data:
 
 The SVM is trained with an original set of labeled data and a hyperplane
 is created to separate the data and positioned in space so that the
@@ -225,12 +225,14 @@ used as a boundary to determine where new data lies and how it is
 classified.
 
 ![data1](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/SVM_data1.png)
+
 User input data w/ labels(above)
 
 ![data2](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/SVM_data2.png)
+
 Data points separated by Hyperplane with optimal Maximized Support Vector distances(above)
 
-Non-linearly separable data:
+#### Non-linearly separable data:
 
 Data points aren’t always able to be separated by just a linear line, so in order to account for this the SVM converts the data into a higher dimension where the data is able to be linearly separated by a hyperplane(purple line). Figures below demonstrate how data points can become linearly separable by first being converted to a higher dimension.
 
