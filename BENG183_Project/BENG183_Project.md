@@ -1,9 +1,7 @@
 BENG183\_Project
 ================
-Kelsey Dang, Katy Zou, Diego Quintero
-12/4/2019
-
-Testing R markdown\!
+Authors: Kelsey Dang, Katy Zou, Diego Quintero
+12/9/2019
 
 # Precision Medicine - Past, Present, & Future
 
