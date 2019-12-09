@@ -297,7 +297,7 @@ Additional breast cancer genomic biomarkers:
 |ATM |Gene that helps repair DNA. |Increased risk of breast cancer|Ongoing research|
 |BARD1 |Works with BRCA1 to repair DNA |Increased risk of breast cancer|Ongoing research<sup>16</sup>|
 |BRIP1|Gene that helps repair DNA.|Increased risk of breast cancer|Ongoing research<sup>17</sup>|
-|CDH1|Protein that helps cells bind together to form tissue invasive lobular breast cancer.|Ongoing research<sup>18</sup>|
+|CDH1|Protein that helps cells bind together to form tissue| invasive lobular breast cancer.|Ongoing research<sup>18</sup>|
 |CHEK2|Gene that codes for tumor suppression protein.|More than double the risk of breast cancer.|Ongoing research<sup>19</sup>|
 |MRE11A|Works with RAD50 and NBN genes, to form the MRN complex, which helps repair DNA.|Increases breast cancer risk|Ongoing research|
 |MSH6|Codes for protein that repairs DNA.|Doubles the risk of breast cancer. |Ongoing research|
